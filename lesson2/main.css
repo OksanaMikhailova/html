@@ -1,0 +1,32 @@
+h1 {
+    background: brown;
+    text-align: center;color: white;
+    height: 50px;
+}
+.target{
+   background:gainsboro;
+    text-align: justify;
+    height: 100px;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.target2{
+    background: cornflowerblue;
+    text-align: justify;
+    height:150px ;
+    box-sizing: border-box;
+    padding: 40px;
+    padding-left: 0;
+}
+.target3{
+    background: mediumseagreen;
+    height: 200px;
+    width:200px ;
+}
+.target4{
+    background: mediumpurple;
+ height: 200px;
+    width: 200px;
+    border-radius: 10px;
+}
