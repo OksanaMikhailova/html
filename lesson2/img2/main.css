@@ -1,0 +1,72 @@
+.target{
+    box-sizing: border-box;
+    background: orange;
+    width: 200px;
+    height: 200px;
+    text-align: center;font-size: xx-large
+    padding-top: 80px;
+    margin: 40px;
+    box-shadow: 20px 20px 0 gray;
+}
+.target1{
+    box-sizing: border-box;
+    background: orange;
+    width: 200px;
+    height: 200px;
+    text-align: center;font-size: xx-large;
+    padding-top: 80px;
+    margin: 40px;
+    box-shadow: 20px 20px 5px grey;
+}
+.target2{
+    box-sizing: border-box;
+    background: orange;
+    width: 200px;
+    height: 200px;
+    text-align: center;font-size: xx-large;
+    padding-top: 80px;
+    margin: 40px;
+    box-shadow: 20px 20px 10px gray;
+}
+.target3{
+    box-sizing: border-box;
+    background: orange;
+    width: 200px;
+    height: 200px;
+    text-align: center;font-size: xx-large;
+    padding-top: 80px;
+    margin: 40px;
+    box-shadow: 30px 30px 10px grey;
+}
+.target4{
+    box-sizing: border-box;
+    background: orange;
+    width: 200px;
+    height: 200px;
+    text-align: center;font-size: xx-large;
+    padding-top: 80px;
+    margin: 40px;
+    box-shadow: 30px 30px 10px darkgray;
+}
+.target5{
+    box-sizing: border-box;
+    background: orange;
+    width: 200px;
+    height: 200px;
+    text-align: center;font-size: xx-large;
+    padding-top: 80px;
+    margin: 40px;
+    box-shadow: 20px 20px 5px grey;
+    border-radius: 10px;
+}
+.target6{
+    box-sizing: border-box;
+    background: orange;
+    width: 200px;
+    height: 200px;
+    text-align: center;font-size: xx-large;
+    padding-top: 80px;
+    margin: 40px;
+    box-shadow: 20px 20px 10px darkgray;
+    border-radius: 10px;
+}
