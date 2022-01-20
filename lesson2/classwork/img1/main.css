@@ -1,0 +1,47 @@
+body{
+    background:black ;
+}
+.target1{
+    box-sizing: border-box;
+    width: 180px;
+    height: 50px;
+    border-radius: 30px;
+    text-align: center;color:orange ;
+    padding-top: 10px;
+    border: orange solid 5px;
+    margin-top: 130px;
+    margin-left: 450px;
+}
+.target2{
+    box-sizing: border-box;
+    width: 180px;
+    height: 50px;
+    border-radius: 30px;
+    text-align: center;color:deepskyblue ;
+    padding-top: 10px;
+    border: darkturquoise solid 5px;
+    margin-top: 10px;
+    margin-left: 450px;
+}
+.target3{
+    box-sizing: border-box;
+    width: 180px;
+    height: 50px;
+    border-radius: 30px;
+    text-align: center;color:deeppink ;
+    padding-top: 10px;
+    border: deeppink solid 5px;
+    margin-top: 10px;
+    margin-left: 450px;
+}
+.target4{
+    box-sizing: border-box;
+    width: 180px;
+    height: 50px;
+    border-radius: 30px;
+    text-align: center;color:red ;
+    padding-top: 10px;
+    border: red solid 5px;
+    margin-top: 10px;
+    margin-left: 450px;
+}
