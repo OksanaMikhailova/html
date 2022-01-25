@@ -1,0 +1,50 @@
+#container{
+    display: flex;
+}
+    .a{
+        background: blue;
+        width: 240px;
+        height: 400px;
+        text-align: center;color: white;font-size: xx-large;
+        margin-right: 20px;
+    }
+.b{
+    background: blue;
+    width: 240px;
+    height:400px ;
+    text-align: center;color: white;font-size: xx-large;
+
+}
+.c{
+    background: blue;
+    width: 500px;
+    height: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;color: white;font-size: xx-large;
+}
+#container1{
+   display: flex;
+}
+
+.d{
+    background: darkblue;
+    width: 154px;
+    height: 200px;
+    margin-right:19px ;
+    text-align: center;color: white;
+}
+.e{
+    background: darkblue;
+    width: 154px;
+    height: 200px;
+    margin-right:19px ;
+    text-align: center;color: white;
+}
+.f{
+    background: darkblue;
+    width: 154px;
+    height: 200px;
+    margin-right:19px ;
+    text-align: center;color: white;
+}
