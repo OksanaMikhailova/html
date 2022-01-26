@@ -1,0 +1,34 @@
+.a{
+    background: gainsboro;
+    width: 230px;
+    height: 50px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+#container{
+    display: flex;
+    width: 230px;
+    height: 115px;
+
+}
+.h{
+    background: gainsboro;
+    width: 50px;
+    height: 112px;
+    margin-left: 5px;
+    text-align: center;
+
+}
+#container1{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 180px;
+    height: 120px;
+}
+.b{
+    background: gainsboro;
+    width: 55px;
+    height: 52px;
+    text-align: center;
+}
