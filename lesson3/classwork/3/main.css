@@ -1,0 +1,51 @@
+.a{
+    background: gainsboro;
+    width: 230px;
+    height: 50px;
+    margin-bottom: 5px;
+    text-align: center;
+
+}
+#container{
+    display: flex;
+    width: 230px;
+    height: 110px;
+
+}
+.f{
+    background:gainsboro;
+    width: 50px;
+    height: 110px;
+    margin-left: 5px;
+    text-align: center;
+
+
+}
+#container1{
+  display: flex;
+    width: 180px;
+    height: 120px;
+
+}
+#container2{
+    width: 175px;
+    height: 59px;
+}
+.b{
+    background: gainsboro;
+    width: 175px;
+    height: 52px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+#container3{
+    display: flex;
+    justify-content: space-between;
+}
+.c{
+    background: gainsboro;
+    width: 55px;
+    height: 52px;
+    /*margin-right: 5px;*/
+    text-align: center;
+}
