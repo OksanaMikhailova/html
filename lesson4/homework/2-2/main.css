@@ -1,0 +1,33 @@
+#container{
+    display: flex;
+}
+.w500{
+width: 500px;
+}
+.h200{
+height: 200px;
+}
+.mrg-b-10{
+margin-bottom: 10px;
+}
+.brd-bl{
+   background: blue;
+}
+.w160{
+width: 160px;
+}
+.h180{
+height: 180px;
+}
+.mrg-r-10{
+   margin-right: 10px;
+}
+.brd-dbl{
+  background: darkblue;
+}
+.h400{
+    height: 400px;
+}
+.mrg-t-10{
+    margin-top: 10px;
+}
